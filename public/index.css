@@ -1,0 +1,52 @@
+.cover{
+	background-color: LightSkyBlue;
+	text-align: center;
+}
+.navbar-light .navbar-nav .nav-link
+{
+	color: white;
+	font-size:25px;
+}
+.btn
+{
+	font-size:20px;
+}
+.navbar-light
+{
+	background-color: LightSkyBlue;
+}
+.cover h3
+{
+	color: white;
+}
+.container-fluid h1
+{
+	color: DeepSkyBlue;
+}
+
+.container-fluid h2
+{
+	color: SkyBlue;
+}
+.container-fluid
+{
+	background-color: AliceBlue;
+}
+.tags
+{
+	display:inline-block;
+	margin-right: 25px;
+}
+#Summary,#Certifications
+{
+	margin-bottom:25px;
+}
+.desc
+{
+	background-color: LightSkyBlue;
+	margin-bottom:25px;
+}
+.desc h2
+{
+	color: White;
+}
