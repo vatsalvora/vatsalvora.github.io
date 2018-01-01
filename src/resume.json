@@ -95,6 +95,6 @@
 			"dates":"July 2017"
 		}
 	],
-	"Skills":["AWS", "Angular.js","React","Spring","Java","J2EE","JavaScript","Python","PHP","Oracle","Teradata","MongoDB","MySQL","Storm/Trident","Kafka","Matlab","R","SQL","Git","Maven","Node.js","Android","AWS Lambda","Facebook API","Google API"],
+	"Skills":["AWS", "Angular.js","React.js","Spring","Java","J2EE","JavaScript","Python","PHP","Oracle","Teradata","MongoDB","MySQL","Storm/Trident","Kafka","Matlab","R","SQL","Git","Maven","Node.js","Android","Amazon Lambda","Facebook API","Google API"],
 	"Personal":["US Citizen","Reading","Biking","Learning","New Technology","Community/Cultural Work"]
 }
