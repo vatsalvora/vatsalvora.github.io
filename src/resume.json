@@ -12,6 +12,13 @@
 	"Summary": ["Software Engineering Professional with a strong academic background and industry experience working in US and India. Quick learner with an insatiable appetite for learning new technical skills. Experience working in a startup and corporate environment. Developed applications on mobile and web platforms. Experienced in developing Cloud based solutions. Strong analytic and technical problem solving skills."],
 	"Experience":[
 		{
+			"company":"The Nielsen Company",
+			"location":"Tampa, FL",
+			"title":"Software Developer",
+			"dates":"Sept 2017 - Present",
+			"desc":" Worked on updating the UI framework using React and Material UI. Collaborated with a development and UX team in an Agile development environment to have multiple React modules work in unison. Created a library of reusable React Components. Created a REST service with the Java Spring framework and ASPOSE to export data and charts to Microsoft Excel."
+		},
+		{
 			"company":"CGS Infotech Solutions",
 			"location":"Mumbai, India",
 			"title":"Technology Consultant",
