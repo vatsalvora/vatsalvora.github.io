@@ -52,3 +52,20 @@
 {
 	color: White;
 }
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 480px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+		.desc
+		{
+			font-size:1.25rem;
+		}
+		.desc h3
+		{
+			font-size:1.25rem;
+		}	
+		.desc h4
+		{
+			font-size:1.25rem;
+		}
+  }
