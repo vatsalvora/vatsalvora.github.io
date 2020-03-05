@@ -2,7 +2,7 @@
 	"Info":
 	{
 		"name":"Vatsal Vora",
-		"desc":"AWS Certified Developer - Associate | Full Stack Developer",
+		"desc":"DataOps Engineer",
 		"address":"10275 Estuary Drive Tampa, FL 33647",
 		"number":"(813) 388-0312",
 		"email":"vatsalajvora@gmail.com",
@@ -16,7 +16,7 @@
 			"location":"Tampa, FL",
 			"title":"Software Developer",
 			"dates":"Sept 2017 - Present",
-			"desc":" Worked on updating the UI framework using React and Material UI. Collaborated with a development and UX team in an Agile development environment to have multiple React modules work in unison. Created a library of reusable React Components. Created a REST service with the Java Spring framework and ASPOSE to export data and charts to Microsoft Excel."
+			"desc":"Orchestrated a Data Pipeline using Apache airflow. Organized Spark jobs for data ingestion from s3 to Elasticsearch, spring batch jobs to ingest data from legacy databases, and machine learning processes with TensorFlow in the Data Pipeline. Wrote spark jobs for data ingestion from S3 to Cassandra and Elasticsearch. Received Simply Excellent Gold award for working with positive philosophy, acting quickly to eliminate wastage of cloud resources. Created Cassandra and Elasticsearch clusters. Set up backup and restore processes for Elasticsearch and Cassandra. Worked on reducing cloud costs by scheduling weekend shutdowns resulting in savings of 92% for weekend cloud spend. Received Simply Excellent Gold award for “Cost savings”. Created DevOps CI/CD pipeline with Jenkins. Created deployment scripts with Ansible and Terraform to AWS Cloud. Designed and developed an application to manage and monitor a Hazelcast Cluster using a React frontend and Spring Boot Microservice backend. The application resulted in projected costs savings of $1 Million in licensing fees. Received Simply Excellent Gold award for going above and beyond planned commitments and taking up a stretch goal."
 		},
 		{
 			"company":"CGS Infotech Solutions",
@@ -102,6 +102,6 @@
 			"dates":"July 2017"
 		}
 	],
-	"Skills":["AWS", "Angular.js","React","Spring","Java","J2EE","JavaScript","Python","PHP","Oracle","Teradata","MongoDB","MySQL","Storm/Trident","Kafka","Matlab","R","SQL","Git","Maven","Node.js","Android","AWS Lambda","Facebook API","Google API"],
+	"Skills":["Spark","Scala","AWS", "AWS Step Functions", "AWS EMR", "AWS DataPipeline", "React","Spring","Java","J2EE","JavaScript","Python","PHP","Oracle","Teradata","MongoDB","MySQL","Storm/Trident","Kafka","Matlab","R","SQL","Git","Maven","Node.js","Android","AWS Lambda","Facebook API","Google API"],
 	"Personal":["US Citizen","Reading","Biking","Learning","New Technology","Community/Cultural Work"]
 }
