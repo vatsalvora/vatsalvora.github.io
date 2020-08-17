@@ -59,6 +59,12 @@
 	],
 	"Projects":[
 		{
+			"title":"Mentorship",
+			"tags":["Swift"],
+			"desc":"Developed a simple IOS Game to motivate students to learn Computer Science. Created a series of Youtube Videos and a Github Repo for students to follow along. Developed using Swift and SpriteKit.",
+			"link":"https://github.com/vatsalvora/butterflychaseios"
+		},
+		{
 			"title":"Gita (Alexa Skill)",
 			"tags":["Node.js","AWS"],
 			"desc":"Developed an Alexa Skill for the Amazon Echo devices using the Node.js SDK for the Alexa Skills Kit. Programmed Alexa to sing verses from the Bhagavad Gita. Worked with the framework to program intents and grab user data into slots. Programmed a Microservice on AWS lambda, hosted audio files on AWS S3, configured logs on AWS CloudWatch, and stored session data on AWS DynamoDB.",
@@ -102,6 +108,10 @@
 		}
 	],
 	"Certifications":[
+		{
+			"title":"AWS Certified Solutions Architect - Professional",
+			"dates":"June 2020"
+		},
 		{
 			"title":"AWS Certified Developer - Associate",
 			"dates":"July 2017"
