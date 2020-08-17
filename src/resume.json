@@ -42,6 +42,11 @@
 	],
 	"Education": [
 		{
+			"degree": "Post Graduate Degree in Philosophy",
+			"institution": "Tattvajnana Vidyapeeth",
+			"dates": "August 2015 - April 2017"
+		},
+		{
 			"degree": "Master's in Computer Science",
 			"institution": "University of Florida",
 			"dates": "August 2014 - May 2015"
