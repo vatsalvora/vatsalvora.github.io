@@ -119,6 +119,6 @@
 			"dates":"July 2017"
 		}
 	],
-	"Skills":["Cassandra","Elasticsearch","Spark","Scala","AWS", "AWS Step Functions", "AWS EMR", "AWS DataPipeline", "React","Spring","Java","J2EE","JavaScript","Python","PHP","Oracle","Teradata","MongoDB","MySQL","Storm/Trident","Kafka","Matlab","R","SQL","Git","Maven","Node.js","Android","AWS Lambda","Facebook API","Google API"],
+	"Skills":["Cassandra","Elasticsearch","Databricks","Terraform","Spark","Scala","AWS", "AWS Step Functions", "AWS EMR", "AWS DataPipeline", "React","Spring","Java","J2EE","JavaScript","Python","PHP","Oracle","Teradata","MongoDB","MySQL","Storm/Trident","Kafka","Matlab","R","SQL","Git","Maven","Node.js","Android","AWS Lambda","Facebook API","Google API"],
 	"Personal":["US Citizen","Reading","Biking","Learning","New Technology","Community/Cultural Work"]
 }
