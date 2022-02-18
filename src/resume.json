@@ -2,9 +2,7 @@
 	"Info":
 	{
 		"name":"Vatsal Vora",
-		"desc":"DataOps Engineer",
-		"address":"10275 Estuary Drive Tampa, FL 33647",
-		"number":"(813) 388-0312",
+		"desc":"Data Engineer",
 		"email":"vatsalajvora@gmail.com",
 		"linkedin":"https://www.linkedin.com/in/vatsal-vora/",
 		"github":"https://www.github.com/vatsalvora"
@@ -12,18 +10,18 @@
 	"Summary": ["Software Engineering Professional with a strong academic background and industry experience working in US and India. Quick learner with an insatiable appetite for learning new technical skills. Experience working in a startup and corporate environment. Developed applications on mobile and web platforms. Experienced in developing Cloud based solutions. Strong analytic and technical problem solving skills."],
 	"Experience":[
 		{
+			"company":"Evernorth",
+			"location":"(Remote) Tampa, FL",
+			"title":"Software Engineering Senior Advisor",
+			"dates":"Nov 2020 - Present",
+			"desc":"Created processes to establish Data Access Controls using Databricks,Delta Lake, AWS IAM, and Okta. Created an Angular Dashboard using S3 static web hosting, serverless lambda (python) APIs, AWS Batch, API Gateway, and Okta to give insights into Third-Party Data Exchange at Cigna. Created a Data Quality application using AWS, Terraform,Databricks, Delta Lake, and Tableau. Ran Spark Jobs for Data profiling and certification on a Databricks cluster and data in Delta Lake tables. Created Data Visualizations using Tableau backed by data in Delta Lake tables."
+		},
+		{
 			"company":"The Nielsen Company",
 			"location":"Tampa, FL",
 			"title":"Software Developer",
-			"dates":"Sept 2017 - Present",
+			"dates":"Sept 2017 - Nov 2020",
 			"desc":"Orchestrated a Data Pipeline using Apache airflow, AWS Step Functions, AWS DataPipeline, and AWS Lambda. Organized Spark jobs for data ingestion from s3 to Elasticsearch, spring batch jobs to ingest data from legacy databases, and machine learning processes with TensorFlow in the Data Pipeline. Wrote spark jobs for data ingestion from S3 to Cassandra and Elasticsearch. Received Simply Excellent Gold award for working with positive philosophy, acting quickly to eliminate wastage of cloud resources. Created Cassandra and Elasticsearch clusters. Set up backup and restore processes for Elasticsearch and Cassandra. Worked on reducing cloud costs by scheduling weekend shutdowns resulting in savings of 92% for weekend cloud spend. Received Simply Excellent Gold award for “Cost savings”. Created DevOps CI/CD pipeline with Jenkins. Created deployment scripts with Ansible and Terraform to AWS Cloud. Designed and developed an application to manage and monitor a Hazelcast Cluster using a React frontend and Spring Boot Microservice backend. The application resulted in projected costs savings of $1 Million in licensing fees. Received Simply Excellent Gold award for going above and beyond planned commitments and taking up a stretch goal."
-		},
-		{
-			"company":"CGS Infotech Solutions",
-			"location":"Mumbai, India",
-			"title":"Technology Consultant",
-			"dates":"July 2015 - June 2017",
-			"desc":" Worked on the Automated Interactive Managed Customer Assistance & Response (AIM-CAR) system, a voice-activated customer response app that provides real time conversation with customers. Developed the system using Node.js, Amazon Lambda, and the Alexa Skills Kit. Developed a system for live videography using a 360 degree camera and integrate Virtual Reality content into websites, social media, iOS and Android applications. Developed applications on the iOS and Android platforms. Web development with Javascript, PHP, and HTML5."
 		},
 		{
 			"company":"JPMorgan Chase",
@@ -108,6 +106,10 @@
 		}
 	],
 	"Certifications":[
+		{
+			"title":"AWS Certified Data Analytics Speciality",
+			"dates":"March 2021"
+		},
 		{
 			"title":"AWS Certified Solutions Architect - Professional",
 			"dates":"June 2020"
