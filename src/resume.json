@@ -2,7 +2,7 @@
 	"Info":
 	{
 		"name":"Vatsal Vora",
-		"desc":"Data Engineer",
+		"desc":"Software Engineer in Data Analytics",
 		"email":"vatsalajvora@gmail.com",
 		"linkedin":"https://www.linkedin.com/in/vatsal-vora/",
 		"github":"https://www.github.com/vatsalvora"
@@ -10,10 +10,17 @@
 	"Summary": ["Software Engineering Professional with a strong academic background and industry experience working for multiple Fortune 500 companies. Quick learner with an insatiable appetite for learning new technical skills. Experience working in a startup and corporate environment. Developed applications on mobile and web platforms. Experienced in developing Cloud based solutions. Strong analytic and technical problem solving skills."],
 	"Experience":[
 		{
+			"company":"Capital One",
+			"location":"(Remote) Tampa, FL",
+			"title":"Senior Software Engineer Principal Associate",
+			"dates":"May 2022 - Present",
+			"desc":"Working on a Data Engineering platform with AWS, Airflow, and PySpark."
+		},
+		{
 			"company":"Evernorth",
 			"location":"(Remote) Tampa, FL",
 			"title":"Software Engineering Senior Advisor",
-			"dates":"Nov 2020 - Present",
+			"dates":"Nov 2020 - Apr 2022",
 			"desc":"Created processes to establish Data Access Controls using Databricks,Delta Lake, AWS IAM, and Okta. Created an Angular Dashboard using S3 static web hosting, serverless lambda (python) APIs, AWS Batch, API Gateway, and Okta to give insights into Third-Party Data Exchange at Cigna. Created a Data Quality application using AWS, Terraform,Databricks, Delta Lake, and Tableau. Ran Spark Jobs for Data profiling and certification on a Databricks cluster and data in Delta Lake tables. Created Data Visualizations using Tableau backed by data in Delta Lake tables."
 		},
 		{
