@@ -8,5 +8,5 @@ vendor
 gemfiles
 Gemfile.lock
 node_modules
-/.idea/
+.idea
 /build/
